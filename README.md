@@ -3,7 +3,7 @@
 > by Rahul Batra
 
 ## General Information
-Objective of the project is to develop a linear regression model to predict the demand of shared bikes based on the various variables provided. 
+Objective of the project is to develop a linear regression model to predict the demand of shared bikes based on the various variables provided. Also, highligh which variables are having a significant impact in predicting the demand. Lastly, quantity how well these variables describe the bike demands.
 
 
 ## Conclusions
